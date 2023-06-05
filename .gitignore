@@ -6,5 +6,5 @@ sp_500_stocks.csv
 __pycache__
 **/recommended_trades.xlsx
 **/momentum_strategy.xlsx
-starter_files/
+./starter_files/
 venv/
